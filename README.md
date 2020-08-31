@@ -1,3 +1,11 @@
+## Shop Stock - Front-End
+
+This project was made to run together with a back-end Node api aplication combined to MongoDB.
+You can see this back-end in [backend-api-products](https://github.com/hiagoLF/backend-api-products) repository.
+
+## Preview
+<a href="https://ibb.co/S7FLTr1"><img src="https://i.ibb.co/JFDhLQb/preview-React-JS.png" alt="preview-React-JS" border="0"></a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
