@@ -1,0 +1,7 @@
+#img-preview {
+    top: 22%;
+    margin-left: 1%;
+    border: solid black 1px;
+    position: absolute;
+    height: 20%;
+}

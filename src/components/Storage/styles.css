@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#storage-component {
+    background-color: lightblue;
+    width: 80%;
+    border-radius: 10px;
+    margin-bottom: 2%;
+}
+
+#storage-component #link-field {
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+#storage-component #link-field .link {
+    background-color: limegreen;
+    
+    font-size: 150%;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    border-radius: 6px;
+    border: solid 1px rgba(0, 0, 0, 0.507);
+    
+    width: 13%;
+    text-align: center;
+    padding: 0.2% 0 0.2% 0;
+
+    transition: 0.3s;
+}
+#storage-component #link-field .link:hover {
+    background-color: green;
+}
+
+
+
+#storage-component .search-field {
+    padding: 1%;
+}
+#storage-component .search-field label {
+    font-size: larger;
+    font-weight: bold;
+    margin-right: 0.5%;
+}
+#storage-component .search-field input {
+    font-size: larger;
+    margin-right: 0.5%;
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(227, 248, 227);
+    padding: 0.4%;
+}
+#storage-component .search-field button {
+    font-size: larger;
+    font-weight: lighter;
+    background-color: greenyellow;
+    border-radius: 6px;
+    border: black solid 2px;
+    padding: 1.5px;
+    transition: 0.3s;
+}
+#storage-component .search-field button:hover{
+    background-color: green;
+}
+
+
+
+#storage-component .storage-field {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+
+    padding: 1%;
+}
+#storage-component .storage-field .item-product {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    text-align: center;
+
+    border: solid 1px white;
+    border-radius: 6px;
+
+    padding: 2%;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+#storage-component .storage-field .item-product img {
+    width: 40%;
+    height: 40%;
+
+    border: solid rgba(0, 0, 0, 0.5) 1px;
+}
+#storage-component .storage-field .item-product input {
+    width: 15%;
+}
+#storage-component .storage-field .item-product label,input {
+    margin-right: 1%;
+}

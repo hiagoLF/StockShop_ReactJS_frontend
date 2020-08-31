@@ -1,0 +1,72 @@
+#form-page {
+    width: 80%;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+
+#form-page #get-product {
+    margin-right: 1%;
+}
+
+#form-page fieldset {
+    padding: 1%;
+    margin: 1%;
+}
+
+#form-page #link-content {
+    padding: 1%;
+}
+#form-page .link-element, button {
+    background-color: lightgreen;
+    
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: none;
+
+    border-radius: 5px;
+    border: solid black 1px;
+
+    padding: 0 1% 0 1%;
+
+    transition: 0.3s;
+
+}
+#form-page .link-element:hover, button:hover {
+    background-color: green;
+}
+#form-page label {
+    font-size: larger;
+    font-weight: bold;
+    margin-right: 0.5%;
+}
+#form-page input {
+    font-size: larger;
+    margin: 0.1% 0.5% 0.1% 0;
+    margin-right: 0.5%;
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(227, 248, 227);
+    padding: 0.4%;
+}
+#form-page #button-div {
+    padding-top: 1%;
+}
+#form-page #button-div button {
+    margin-right: 2%;
+}
+#form-page #button-div #remove-button {
+    background-color: rgb(150, 184, 95);
+}
+#form-page #button-div #remove-button:hover {
+    background-color: grey;
+}
+#form-page #imgPreview {
+    top: 30%;
+    margin-left: 1%;
+    border: solid black 1px;
+    position: absolute;
+    height: 20%;
+}
+#form-page #get-product {
+    margin-left: 1%;
+}
