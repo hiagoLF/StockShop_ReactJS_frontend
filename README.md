@@ -4,6 +4,7 @@ This project was made to run together with a back-end Node api aplication combin
 You can see this back-end in [backend-api-products](https://github.com/hiagoLF/backend-api-products) repository.
 
 ## Preview
+![](https://github.com/hiagoLF/frontend-StockShop-ReactJS/blob/master/ReactApp.gif?raw=true)
 <a href="https://ibb.co/S7FLTr1"><img src="https://i.ibb.co/JFDhLQb/preview-React-JS.png" alt="preview-React-JS" border="0"></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
