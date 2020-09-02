@@ -1,7 +1,7 @@
 ## Shop Stock - Front-End
 
 This project was made to run together with a back-end Node api aplication combined to MongoDB.
-You can see this back-end in [backend-api-products](https://github.com/hiagoLF/backend-api-products) repository.
+You can see this back-end in [api_products_backend](https://github.com/hiagoLF/backend-api-products) repository.
 
 ## Preview
 ![](https://github.com/hiagoLF/frontend-StockShop-ReactJS/blob/master/ReactApp.gif?raw=true)
