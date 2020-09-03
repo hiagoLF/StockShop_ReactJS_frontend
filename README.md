@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/hiagoLF/StockShop_ReactJS_frontend)  
+
+
 ## Shop Stock - Front-End
 
 This project was made to run together with a back-end Node api aplication combined to MongoDB.
