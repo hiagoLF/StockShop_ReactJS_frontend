@@ -4,10 +4,8 @@ This project was made to run together with a back-end Node api aplication combin
 You can see this back-end in [api_products_backend](https://github.com/hiagoLF/backend-api-products) repository.
 
 ## Preview
-
+#### Click and watch the video bellow...
 [![ReactJS App](http://img.youtube.com/vi/C6bfbCBWbBo/0.jpg)](http://www.youtube.com/watch?v=C6bfbCBWbBo "ReactJS App")
-
-<a href="https://ibb.co/S7FLTr1"><img src="https://i.ibb.co/JFDhLQb/preview-React-JS.png" alt="preview-React-JS" border="0"></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
